@@ -41,4 +41,10 @@ https://github.com/Jeevannaik66/Coin-Flip/assets/117274229/678813a1-5161-4f01-ac
 To get a local copy up and running, follow these steps:
 
 1. Clone the repository:
+2. Open the index.html file in your web browser.
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+
 
